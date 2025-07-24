@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "b8c8e7d67c174cdc52aca4774ff6e39f",
+const RESOURCES = {"flutter_bootstrap.js": "01ca25a09391a11dd541f606dd20fc7f",
 "version.json": "3955b1186f01b2d267f57a075aa99a74",
 "index.html": "3964d1781a9b9237fe34ffc90d10bc6d",
 "/": "3964d1781a9b9237fe34ffc90d10bc6d",
-"main.dart.js": "9adf90ef2e011c637c35d911e10dcfc6",
+"main.dart.js": "954e32edbd17fe0e5c2cb7e22c80acf0",
 "flutter.js": "83d881c1dbb6d6bcd6b42e274605b69c",
 "favicon.png": "a31f2bef2437c986c397c89ee66ad32a",
 "icons/Icon-192.png": "a31f2bef2437c986c397c89ee66ad32a",
@@ -22,7 +22,7 @@ const RESOURCES = {"flutter_bootstrap.js": "b8c8e7d67c174cdc52aca4774ff6e39f",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "33b7d9392238c04c131b6ce224e13711",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/AssetManifest.bin": "f5900d640b12e69ce0e67da345bfb6c1",
-"assets/fonts/MaterialIcons-Regular.otf": "459035ce9bf4c211d65963814d750a87",
+"assets/fonts/MaterialIcons-Regular.otf": "6b182592c83955bd59caaa0610b7f5ac",
 "assets/assets/images/bible_logo.png": "d5ea1ca831e33a157eab73a98bb4f90d",
 "assets/assets/images/ask.png": "bdc431d7cc274ca181ab5ef470733637",
 "assets/assets/images/leaderboard.png": "3b10515a06860cabecb9fef62d10956c",
